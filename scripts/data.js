@@ -20,7 +20,7 @@ const treehouses = [
   {
     title: 'NUMTOT\'s first treehouse.',
     img: 'http://www.abc.net.au/news/image/5170858-3x2-940x627.jpg',
-    description: 'A treehouse for new urbanist transit-oriented teens.',
+    description: 'A treehouse for new urbanist transit oriented teens.',
     contributor: 'Matthew'
   }
 ]
