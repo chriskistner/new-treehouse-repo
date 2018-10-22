@@ -19,7 +19,7 @@ const treehouses = [
   },
   {
     title: 'Glass Treehouse',
-    img: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjm7vXzzJreAhUFlKwKHYatDXYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.dezeen.com%2F2017%2F04%2F19%2Fmalan-vorster-treehouse-residence-views-cape-town-forest-architecture-residential-south-africa%2F&psig=AOvVaw0CYu5h1wET24Cqt-O5n4_T&ust=1540316671186916',
+    img: 'https://static.dezeen.com/uploads/2017/04/paarman-tree-house-by-mv-architecture-residential_dezeen_hero-1-852x479.jpg',
     description: 'Beautiful glass treehouse',
     contributor: 'Celia'
   }
