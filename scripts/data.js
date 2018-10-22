@@ -16,7 +16,13 @@ const treehouses = [
     img: 'https://media.architecturaldigest.com/photos/55e76412cd709ad62e8e6854/master/w_640,c_limit/dam-images-architecture-2013-07-tree-houses-treehouse-architecture-01-la-piantata-suite-bleue-italy.jpg',
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
-  }
+  },
+  {
+    title: 'Rustic Lodging',
+      img: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLycirypreAhUC26wKHZNWAXUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amishcountrylodging.com%2Fberlin-woods.html&psig=AOvVaw0gOHT1BVDSriu8ldQfu-J1&ust=1540315969857775',
+      description: 'If you are looking for fantastic Berlin, Ohio lodging you have found it. Our gorgeous Amish Country Treehouses at Berlin Woods are less than a mile to the wonderful shops and restaurants in downtown Berlin.  These custom tree houses were built in 2016 and provide ideal lodging for anniversaries, honeymoons, or family friendly getaways to Amish Country.',
+      contributor: 'Toby'
+    }
 ]
 
 module.exports = {
