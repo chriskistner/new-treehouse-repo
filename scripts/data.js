@@ -19,7 +19,7 @@ const treehouses = [
   },
   {
     title: 'Rustic Lodging',
-      img: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLycirypreAhUC26wKHZNWAXUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amishcountrylodging.com%2Fberlin-woods.html&psig=AOvVaw0gOHT1BVDSriu8ldQfu-J1&ust=1540315969857775',
+      img: 'https://www.amishcountrylodging.com/wp-content/uploads/2016/09/treehouse-5-exterior-slide.jpg',
       description: 'If you are looking for fantastic Berlin, Ohio lodging you have found it. Our gorgeous Amish Country Treehouses at Berlin Woods are less than a mile to the wonderful shops and restaurants in downtown Berlin.  These custom tree houses were built in 2016 and provide ideal lodging for anniversaries, honeymoons, or family friendly getaways to Amish Country.',
       contributor: 'Toby'
     }
