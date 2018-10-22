@@ -28,7 +28,13 @@ const treehouses = [
       img: 'https://www.amishcountrylodging.com/wp-content/uploads/2016/09/treehouse-5-exterior-slide.jpg',
       description: 'If you are looking for fantastic Berlin, Ohio lodging you have found it. Our gorgeous Amish Country Treehouses at Berlin Woods are less than a mile to the wonderful shops and restaurants in downtown Berlin.  These custom tree houses were built in 2016 and provide ideal lodging for anniversaries, honeymoons, or family friendly getaways to Amish Country.',
       contributor: 'Toby'
-    }
+    },
+    {
+    title: 'TreeHouse Point',
+    img: 'https://www.treehousepoint.com/images/treehouse-point.jpg',
+    description: 'Easily accessible along the Preston-Fall City Road SE and located just 30 minutes from Seattle in a beautiful forest along the Raging River, TreeHouse Point offers myriad possibilities for your use and enjoyment!',
+    contributor: 'Chris Kistner'
+  }
 ]
 
 module.exports = {
